@@ -1,10 +1,1 @@
-Brain Tumor Detection Web App
-Overview
-The Brain Tumor Detection Web App is a machine learning-based web application designed to assist in the detection and classification of brain tumors using medical imaging. This application leverages advanced algorithms to analyze brain MRI scans and provide accurate predictions to support medical professionals.
-
-Features
-Upload MRI Scans: Users can upload brain MRI images for analysis.
-Tumor Detection: Detects the presence of tumors in MRI scans.
-Tumor Classification: Classifies the type of tumor if detected.
-User-Friendly Interface: Intuitive web interface for easy interaction.
-Visualization: Displays results and highlights areas of interest in MRI scans.
+The Brain Tumor Detection Web App is a cutting-edge tool designed to assist in the early detection and classification of brain tumors using MRI scans. By leveraging advanced machine learning algorithms, the application enables users to upload brain MRI images and receive insightful analyses that highlight the presence and type of any tumors detected. With its intuitive interface, the app simplifies the process for healthcare professionals to interpret MRI results and make informed decisions. Built with modern web technologies and machine learning frameworks, this tool offers a user-friendly experience and visual feedback to support accurate medical diagnoses.
